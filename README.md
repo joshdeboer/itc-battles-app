@@ -1,5 +1,5 @@
 <!-- Badges -->
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/itc-battles-app/community)
+[![Discord Chat](https://img.shields.io/badge/chat-on%20discord-738BD7.svg)](https://discord.gg/U7CPwTs)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBEZEE6X8CS3E&source=url)
 
 <!-- PROJECT LOGO -->
@@ -64,7 +64,7 @@ There are several ways you can contribute to the project if you're interested:
 * <a href="https://github.com/joshdeboer/itc-battles-app/issues">Suggest new features</a>.
 * Rate or review the app on the <a href="https://apps.apple.com/us/app/itc-battles/id1475052539">App Store</a> or the <a href="https://play.google.com/store/apps/details?id=com.joshdeboer.itcbattles">Google Play Store</a>.
 * Share the app with friends.
-* Help with the development process on <a href="https://gitter.im/itc-battles-app/community">Gitter</a>.
+* Help with the development process on <a href="https://discord.gg/U7CPwTs">Discord</a>.
 
 
 
