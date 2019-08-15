@@ -1,5 +1,6 @@
 <!-- Badges -->
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/itc-battles-app/community)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBEZEE6X8CS3E&source=url)
 
 <!-- PROJECT LOGO -->
 <p align="center">
@@ -12,7 +13,7 @@
     <br />
     <br/>
     <a href="https://itcbattles.app">
-      <img src="images/web-app-badge.png" alt="Google Play Store" height="44">
+      <img src="images/web-app-badge.png" alt="Web App" height="44">
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.joshdeboer.itcbattles">
       <img src="images/google-play-badge.png" alt="Google Play Store" height="44">
@@ -31,11 +32,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This repo is used for tracking issues and project planning, the codebase itself is private.
+
 <a href="https://itcbattles.app">
   <img src="images/screenshot.png" alt="App screenshot">
 </a>
 
-This repo is used for tracking issues and project planning, the codebase itself is private.
+
 
 ### Built With
 
@@ -64,12 +67,23 @@ There are several ways you can contribute to the project if you're interested:
 * Help with the development process on <a href="https://gitter.im/itc-battles-app/community">Gitter</a>.
 
 
+
 <!-- CONTACT -->
 ## Contact
 
 Josh DeBoer - itcbattlesapp@gmail.com
 
 Project Link: [https://github.com/joshdeboer/itc-battles-app](https://github.com/joshdeboer/itc-battles-app)
+
+
+
+<!-- Donations -->
+## Donations
+
+If you would like support future development of this app, you can donate below. All of the proceeds go towards hosting and development costs.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBEZEE6X8CS3E&source=url)
+
 
 
 
